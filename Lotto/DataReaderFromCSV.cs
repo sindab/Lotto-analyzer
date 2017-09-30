@@ -7,6 +7,7 @@ namespace Lotto
 {
     class DataReaderFromCSV : DataReader
     {
+        //TODO file name kao parametar
         const string fileName = "lotto.csv";
         readonly char[] trimCharacters = { ',' };
         ////const string datePattern = @"^(\d{1,2})\/(\d{1,2})\/(\d{4})";
