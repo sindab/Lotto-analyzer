@@ -43,36 +43,36 @@ namespace Lotto
         //    }
         //}
 
-        public string[] GetResults()
-        {
-            int[] numbersCount = new int[40];
+        //public string[] GetResults()
+        //{
+        //    int[] numbersCount = new int[40];
 
-            string[] displayResult = new string[40];
+        //    string[] displayResult = new string[40];
 
-            foreach (Extraction extraction in Extractions)
-            {
-                foreach (byte b in extraction.NumbersAsArray)
-                {
-                    numbersCount[b]++;
-                }
-            }
+        //    foreach (Extraction extraction in Extractions)
+        //    {
+        //        foreach (byte b in extraction.NumbersAsArray)
+        //        {
+        //            numbersCount[b]++;
+        //        }
+        //    }
 
-            foreach (byte b in Enumerable.Range(1, 39))
-            {
-                displayResult[b] = b.ToString() + " --> " + ((numbersCount[b] * 1.0) / Extractions.Count * 100).ToString();
-            }
+        //    foreach (byte b in Enumerable.Range(1, 39))
+        //    {
+        //        displayResult[b] = b.ToString() + " --> " + ((numbersCount[b] * 1.0) / Extractions.Count * 100).ToString();
+        //    }
 
 
-            //displayResult[50] = Array.IndexOf(numbersCount, numbersCount.Min(x => x != 0)).ToString();
-            //displayResult[51] = Array.IndexOf(numbersCount, numbersCount.Max()).ToString();
+        //    //displayResult[50] = Array.IndexOf(numbersCount, numbersCount.Min(x => x != 0)).ToString();
+        //    //displayResult[51] = Array.IndexOf(numbersCount, numbersCount.Max()).ToString();
 
-            //foreach (var b in Enumerable.Range(1, 51))
-            //{
-            //    Console.WriteLine("{0} ---> {1}", b, displayResult[b]);
-            //}
+        //    //foreach (var b in Enumerable.Range(1, 51))
+        //    //{
+        //    //    Console.WriteLine("{0} ---> {1}", b, displayResult[b]);
+        //    //}
 
-            return displayResult;
-        }
+        //    return displayResult;
+        //}
 
         public DataTable GetTableResults()
         {
@@ -99,7 +99,7 @@ namespace Lotto
             dt.Columns.Add(new DataColumn("DVII", Type.GetType("System.Int32")));
             DataRow _red;
             
-            int[] numbersCount = new int[40];
+            //int[] numbersCount = new int[40];
             int nepar;
             int suma;
             int rbr=0;
@@ -111,6 +111,7 @@ namespace Lotto
                 rbr += 1;
                 _red = dt.NewRow();
                 _red["RBr"] = rbr;
+                //_red["RBr"] = extraction.NumbersAsArray[0];
                 _red["I"] = extraction.NumbersAsArray[0];
                 _red["II"] = extraction.NumbersAsArray[1];
                 _red["III"] = extraction.NumbersAsArray[2];

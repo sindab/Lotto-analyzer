@@ -84,62 +84,62 @@
             DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue27 = new DevExpress.XtraEditors.FormatConditionRuleValue();
             DevExpress.XtraGrid.GridFormatRule gridFormatRule28 = new DevExpress.XtraGrid.GridFormatRule();
             DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue28 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule57 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue57 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule58 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue58 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule59 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue59 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule60 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue60 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule61 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue61 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule62 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue62 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule63 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue63 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule64 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue64 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule65 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue65 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule66 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue66 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule67 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue67 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule68 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue68 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule69 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue69 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule70 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue70 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule71 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue71 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule72 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue72 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule73 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue73 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule74 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue74 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule75 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue75 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule76 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue76 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule77 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue77 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule78 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue78 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule79 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue79 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule80 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue80 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule81 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue81 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule82 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue82 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule83 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue83 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule84 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue84 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule29 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue29 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule30 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue30 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule31 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue31 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule32 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue32 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule33 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue33 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule34 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue34 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule35 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue35 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule36 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue36 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule37 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue37 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule38 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue38 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule39 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue39 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule40 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue40 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule41 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue41 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule42 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue42 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule43 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue43 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule44 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue44 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule45 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue45 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule46 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue46 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule47 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue47 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule48 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue48 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule49 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue49 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule50 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue50 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule51 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue51 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule52 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue52 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule53 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue53 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule54 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue54 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule55 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue55 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule56 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue56 = new DevExpress.XtraEditors.FormatConditionRuleValue();
             this.gcDI = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gcI = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gcDII = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -154,6 +154,20 @@
             this.gcVI = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gcDVII = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gcVII = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn12 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn2 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn13 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn3 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn14 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn4 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn15 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn5 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn16 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn6 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn17 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn7 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn18 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn8 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridControl1 = new DevExpress.XtraGrid.GridControl();
             this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.gcRBr = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -163,28 +177,15 @@
             this.gridControl2 = new DevExpress.XtraGrid.GridControl();
             this.gridView2 = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.gridColumn1 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn2 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn3 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn4 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn5 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn6 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn7 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn8 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn9 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn10 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn11 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn12 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn13 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn14 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn15 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn16 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn17 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn18 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
+            this.calcEdit1 = new DevExpress.XtraEditors.CalcEdit();
             ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridControl2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.calcEdit1.Properties)).BeginInit();
             this.SuspendLayout();
             // 
             // gcDI
@@ -291,6 +292,111 @@
             this.gcVII.Visible = true;
             this.gcVII.VisibleIndex = 7;
             this.gcVII.Width = 45;
+            // 
+            // gridColumn12
+            // 
+            this.gridColumn12.Caption = "DI";
+            this.gridColumn12.FieldName = "DI";
+            this.gridColumn12.Name = "gridColumn12";
+            // 
+            // gridColumn2
+            // 
+            this.gridColumn2.Caption = "I";
+            this.gridColumn2.FieldName = "I";
+            this.gridColumn2.Name = "gridColumn2";
+            this.gridColumn2.Visible = true;
+            this.gridColumn2.VisibleIndex = 1;
+            this.gridColumn2.Width = 45;
+            // 
+            // gridColumn13
+            // 
+            this.gridColumn13.Caption = "DII";
+            this.gridColumn13.FieldName = "DII";
+            this.gridColumn13.Name = "gridColumn13";
+            // 
+            // gridColumn3
+            // 
+            this.gridColumn3.Caption = "II";
+            this.gridColumn3.FieldName = "II";
+            this.gridColumn3.Name = "gridColumn3";
+            this.gridColumn3.Visible = true;
+            this.gridColumn3.VisibleIndex = 2;
+            this.gridColumn3.Width = 45;
+            // 
+            // gridColumn14
+            // 
+            this.gridColumn14.Caption = "DIII";
+            this.gridColumn14.FieldName = "DIII";
+            this.gridColumn14.Name = "gridColumn14";
+            // 
+            // gridColumn4
+            // 
+            this.gridColumn4.Caption = "III";
+            this.gridColumn4.FieldName = "III";
+            this.gridColumn4.Name = "gridColumn4";
+            this.gridColumn4.Visible = true;
+            this.gridColumn4.VisibleIndex = 3;
+            this.gridColumn4.Width = 45;
+            // 
+            // gridColumn15
+            // 
+            this.gridColumn15.Caption = "DIV";
+            this.gridColumn15.FieldName = "DIV";
+            this.gridColumn15.Name = "gridColumn15";
+            // 
+            // gridColumn5
+            // 
+            this.gridColumn5.Caption = "IV";
+            this.gridColumn5.FieldName = "IV";
+            this.gridColumn5.Name = "gridColumn5";
+            this.gridColumn5.Visible = true;
+            this.gridColumn5.VisibleIndex = 4;
+            this.gridColumn5.Width = 45;
+            // 
+            // gridColumn16
+            // 
+            this.gridColumn16.Caption = "DV";
+            this.gridColumn16.FieldName = "DV";
+            this.gridColumn16.Name = "gridColumn16";
+            // 
+            // gridColumn6
+            // 
+            this.gridColumn6.Caption = "V";
+            this.gridColumn6.FieldName = "V";
+            this.gridColumn6.Name = "gridColumn6";
+            this.gridColumn6.Visible = true;
+            this.gridColumn6.VisibleIndex = 5;
+            this.gridColumn6.Width = 45;
+            // 
+            // gridColumn17
+            // 
+            this.gridColumn17.Caption = "DVI";
+            this.gridColumn17.FieldName = "DVI";
+            this.gridColumn17.Name = "gridColumn17";
+            // 
+            // gridColumn7
+            // 
+            this.gridColumn7.Caption = "VI";
+            this.gridColumn7.FieldName = "VI";
+            this.gridColumn7.Name = "gridColumn7";
+            this.gridColumn7.Visible = true;
+            this.gridColumn7.VisibleIndex = 6;
+            this.gridColumn7.Width = 45;
+            // 
+            // gridColumn18
+            // 
+            this.gridColumn18.Caption = "DVII";
+            this.gridColumn18.FieldName = "DVII";
+            this.gridColumn18.Name = "gridColumn18";
+            // 
+            // gridColumn8
+            // 
+            this.gridColumn8.Caption = "VII";
+            this.gridColumn8.FieldName = "VII";
+            this.gridColumn8.Name = "gridColumn8";
+            this.gridColumn8.Visible = true;
+            this.gridColumn8.VisibleIndex = 7;
+            this.gridColumn8.Width = 45;
             // 
             // gridControl1
             // 
@@ -657,258 +763,258 @@
             this.gridColumn17,
             this.gridColumn18});
             this.gridView2.FocusRectStyle = DevExpress.XtraGrid.Views.Grid.DrawFocusRectStyle.None;
-            gridFormatRule57.Column = this.gridColumn12;
-            gridFormatRule57.ColumnApplyTo = this.gridColumn2;
-            gridFormatRule57.Name = "Format0";
-            formatConditionRuleValue57.Appearance.BackColor = System.Drawing.Color.Yellow;
-            formatConditionRuleValue57.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue57.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue57.Value1 = 0;
-            gridFormatRule57.Rule = formatConditionRuleValue57;
-            gridFormatRule58.Column = this.gridColumn12;
-            gridFormatRule58.ColumnApplyTo = this.gridColumn2;
-            gridFormatRule58.Name = "Format1";
-            formatConditionRuleValue58.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue58.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue58.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue58.Value1 = 10;
-            gridFormatRule58.Rule = formatConditionRuleValue58;
-            gridFormatRule59.Column = this.gridColumn12;
-            gridFormatRule59.ColumnApplyTo = this.gridColumn2;
-            gridFormatRule59.Name = "Format2";
-            formatConditionRuleValue59.Appearance.BackColor = System.Drawing.Color.Red;
-            formatConditionRuleValue59.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue59.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue59.Value1 = 20;
-            gridFormatRule59.Rule = formatConditionRuleValue59;
-            gridFormatRule60.Column = this.gridColumn12;
-            gridFormatRule60.ColumnApplyTo = this.gridColumn2;
-            gridFormatRule60.Name = "Format3";
-            formatConditionRuleValue60.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue60.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue60.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue60.Value1 = 30;
-            gridFormatRule60.Rule = formatConditionRuleValue60;
-            gridFormatRule61.Column = this.gridColumn13;
-            gridFormatRule61.ColumnApplyTo = this.gridColumn3;
-            gridFormatRule61.Name = "Format4";
-            formatConditionRuleValue61.Appearance.BackColor = System.Drawing.Color.Yellow;
-            formatConditionRuleValue61.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue61.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue61.Value1 = 0;
-            gridFormatRule61.Rule = formatConditionRuleValue61;
-            gridFormatRule62.Column = this.gridColumn13;
-            gridFormatRule62.ColumnApplyTo = this.gridColumn3;
-            gridFormatRule62.Name = "Format5";
-            formatConditionRuleValue62.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue62.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue62.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue62.Value1 = 10;
-            gridFormatRule62.Rule = formatConditionRuleValue62;
-            gridFormatRule63.Column = this.gridColumn13;
-            gridFormatRule63.ColumnApplyTo = this.gridColumn3;
-            gridFormatRule63.Name = "Format6";
-            formatConditionRuleValue63.Appearance.BackColor = System.Drawing.Color.Red;
-            formatConditionRuleValue63.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue63.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue63.Value1 = 20;
-            gridFormatRule63.Rule = formatConditionRuleValue63;
-            gridFormatRule64.Column = this.gridColumn13;
-            gridFormatRule64.ColumnApplyTo = this.gridColumn3;
-            gridFormatRule64.Name = "Format7";
-            formatConditionRuleValue64.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue64.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue64.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue64.Value1 = 30;
-            gridFormatRule64.Rule = formatConditionRuleValue64;
-            gridFormatRule65.Column = this.gridColumn14;
-            gridFormatRule65.ColumnApplyTo = this.gridColumn4;
-            gridFormatRule65.Name = "Format8";
-            formatConditionRuleValue65.Appearance.BackColor = System.Drawing.Color.Yellow;
-            formatConditionRuleValue65.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue65.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue65.Value1 = 0;
-            gridFormatRule65.Rule = formatConditionRuleValue65;
-            gridFormatRule66.Column = this.gridColumn14;
-            gridFormatRule66.ColumnApplyTo = this.gridColumn4;
-            gridFormatRule66.Name = "Format9";
-            formatConditionRuleValue66.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue66.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue66.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue66.Value1 = 10;
-            gridFormatRule66.Rule = formatConditionRuleValue66;
-            gridFormatRule67.Column = this.gridColumn14;
-            gridFormatRule67.ColumnApplyTo = this.gridColumn4;
-            gridFormatRule67.Name = "Format10";
-            formatConditionRuleValue67.Appearance.BackColor = System.Drawing.Color.Red;
-            formatConditionRuleValue67.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue67.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue67.Value1 = 20;
-            gridFormatRule67.Rule = formatConditionRuleValue67;
-            gridFormatRule68.Column = this.gridColumn14;
-            gridFormatRule68.ColumnApplyTo = this.gridColumn4;
-            gridFormatRule68.Name = "Format11";
-            formatConditionRuleValue68.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue68.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue68.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue68.Value1 = 30;
-            gridFormatRule68.Rule = formatConditionRuleValue68;
-            gridFormatRule69.Column = this.gridColumn15;
-            gridFormatRule69.ColumnApplyTo = this.gridColumn5;
-            gridFormatRule69.Name = "Format12";
-            formatConditionRuleValue69.Appearance.BackColor = System.Drawing.Color.Yellow;
-            formatConditionRuleValue69.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue69.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue69.Value1 = 0;
-            gridFormatRule69.Rule = formatConditionRuleValue69;
-            gridFormatRule70.Column = this.gridColumn15;
-            gridFormatRule70.ColumnApplyTo = this.gridColumn5;
-            gridFormatRule70.Name = "Format13";
-            formatConditionRuleValue70.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue70.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue70.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue70.Value1 = 10;
-            gridFormatRule70.Rule = formatConditionRuleValue70;
-            gridFormatRule71.Column = this.gridColumn15;
-            gridFormatRule71.ColumnApplyTo = this.gridColumn5;
-            gridFormatRule71.Name = "Format14";
-            formatConditionRuleValue71.Appearance.BackColor = System.Drawing.Color.Red;
-            formatConditionRuleValue71.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue71.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue71.Value1 = 20;
-            gridFormatRule71.Rule = formatConditionRuleValue71;
-            gridFormatRule72.Column = this.gridColumn15;
-            gridFormatRule72.ColumnApplyTo = this.gridColumn5;
-            gridFormatRule72.Name = "Format15";
-            formatConditionRuleValue72.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue72.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue72.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue72.Value1 = 30;
-            gridFormatRule72.Rule = formatConditionRuleValue72;
-            gridFormatRule73.Column = this.gridColumn16;
-            gridFormatRule73.ColumnApplyTo = this.gridColumn6;
-            gridFormatRule73.Name = "Format16";
-            formatConditionRuleValue73.Appearance.BackColor = System.Drawing.Color.Yellow;
-            formatConditionRuleValue73.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue73.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue73.Value1 = 0;
-            gridFormatRule73.Rule = formatConditionRuleValue73;
-            gridFormatRule74.Column = this.gridColumn16;
-            gridFormatRule74.ColumnApplyTo = this.gridColumn6;
-            gridFormatRule74.Name = "Format17";
-            formatConditionRuleValue74.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue74.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue74.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue74.Value1 = 10;
-            gridFormatRule74.Rule = formatConditionRuleValue74;
-            gridFormatRule75.Column = this.gridColumn16;
-            gridFormatRule75.ColumnApplyTo = this.gridColumn6;
-            gridFormatRule75.Name = "Format18";
-            formatConditionRuleValue75.Appearance.BackColor = System.Drawing.Color.Red;
-            formatConditionRuleValue75.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue75.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue75.Value1 = 20;
-            gridFormatRule75.Rule = formatConditionRuleValue75;
-            gridFormatRule76.Column = this.gridColumn16;
-            gridFormatRule76.ColumnApplyTo = this.gridColumn6;
-            gridFormatRule76.Name = "Format19";
-            formatConditionRuleValue76.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue76.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue76.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue76.Value1 = 30;
-            gridFormatRule76.Rule = formatConditionRuleValue76;
-            gridFormatRule77.Column = this.gridColumn17;
-            gridFormatRule77.ColumnApplyTo = this.gridColumn7;
-            gridFormatRule77.Name = "Format20";
-            formatConditionRuleValue77.Appearance.BackColor = System.Drawing.Color.Yellow;
-            formatConditionRuleValue77.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue77.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue77.Value1 = 0;
-            gridFormatRule77.Rule = formatConditionRuleValue77;
-            gridFormatRule78.Column = this.gridColumn17;
-            gridFormatRule78.ColumnApplyTo = this.gridColumn7;
-            gridFormatRule78.Name = "Format21";
-            formatConditionRuleValue78.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue78.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue78.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue78.Value1 = 10;
-            gridFormatRule78.Rule = formatConditionRuleValue78;
-            gridFormatRule79.Column = this.gridColumn17;
-            gridFormatRule79.ColumnApplyTo = this.gridColumn7;
-            gridFormatRule79.Name = "Format22";
-            formatConditionRuleValue79.Appearance.BackColor = System.Drawing.Color.Red;
-            formatConditionRuleValue79.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue79.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue79.Value1 = 20;
-            gridFormatRule79.Rule = formatConditionRuleValue79;
-            gridFormatRule80.Column = this.gridColumn17;
-            gridFormatRule80.ColumnApplyTo = this.gridColumn7;
-            gridFormatRule80.Name = "Format23";
-            formatConditionRuleValue80.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue80.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue80.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue80.Value1 = 30;
-            gridFormatRule80.Rule = formatConditionRuleValue80;
-            gridFormatRule81.Column = this.gridColumn18;
-            gridFormatRule81.ColumnApplyTo = this.gridColumn8;
-            gridFormatRule81.Name = "Format24";
-            formatConditionRuleValue81.Appearance.BackColor = System.Drawing.Color.Yellow;
-            formatConditionRuleValue81.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue81.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue81.Value1 = 0;
-            gridFormatRule81.Rule = formatConditionRuleValue81;
-            gridFormatRule82.Column = this.gridColumn18;
-            gridFormatRule82.ColumnApplyTo = this.gridColumn8;
-            gridFormatRule82.Name = "Format25";
-            formatConditionRuleValue82.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue82.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue82.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue82.Value1 = 10;
-            gridFormatRule82.Rule = formatConditionRuleValue82;
-            gridFormatRule83.Column = this.gridColumn18;
-            gridFormatRule83.ColumnApplyTo = this.gridColumn8;
-            gridFormatRule83.Name = "Format26";
-            formatConditionRuleValue83.Appearance.BackColor = System.Drawing.Color.Red;
-            formatConditionRuleValue83.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue83.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue83.Value1 = 20;
-            gridFormatRule83.Rule = formatConditionRuleValue83;
-            gridFormatRule84.Column = this.gridColumn18;
-            gridFormatRule84.ColumnApplyTo = this.gridColumn8;
-            gridFormatRule84.Name = "Format27";
-            formatConditionRuleValue84.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue84.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue84.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue84.Value1 = 30;
-            gridFormatRule84.Rule = formatConditionRuleValue84;
-            this.gridView2.FormatRules.Add(gridFormatRule57);
-            this.gridView2.FormatRules.Add(gridFormatRule58);
-            this.gridView2.FormatRules.Add(gridFormatRule59);
-            this.gridView2.FormatRules.Add(gridFormatRule60);
-            this.gridView2.FormatRules.Add(gridFormatRule61);
-            this.gridView2.FormatRules.Add(gridFormatRule62);
-            this.gridView2.FormatRules.Add(gridFormatRule63);
-            this.gridView2.FormatRules.Add(gridFormatRule64);
-            this.gridView2.FormatRules.Add(gridFormatRule65);
-            this.gridView2.FormatRules.Add(gridFormatRule66);
-            this.gridView2.FormatRules.Add(gridFormatRule67);
-            this.gridView2.FormatRules.Add(gridFormatRule68);
-            this.gridView2.FormatRules.Add(gridFormatRule69);
-            this.gridView2.FormatRules.Add(gridFormatRule70);
-            this.gridView2.FormatRules.Add(gridFormatRule71);
-            this.gridView2.FormatRules.Add(gridFormatRule72);
-            this.gridView2.FormatRules.Add(gridFormatRule73);
-            this.gridView2.FormatRules.Add(gridFormatRule74);
-            this.gridView2.FormatRules.Add(gridFormatRule75);
-            this.gridView2.FormatRules.Add(gridFormatRule76);
-            this.gridView2.FormatRules.Add(gridFormatRule77);
-            this.gridView2.FormatRules.Add(gridFormatRule78);
-            this.gridView2.FormatRules.Add(gridFormatRule79);
-            this.gridView2.FormatRules.Add(gridFormatRule80);
-            this.gridView2.FormatRules.Add(gridFormatRule81);
-            this.gridView2.FormatRules.Add(gridFormatRule82);
-            this.gridView2.FormatRules.Add(gridFormatRule83);
-            this.gridView2.FormatRules.Add(gridFormatRule84);
+            gridFormatRule29.Column = this.gridColumn12;
+            gridFormatRule29.ColumnApplyTo = this.gridColumn2;
+            gridFormatRule29.Name = "Format0";
+            formatConditionRuleValue29.Appearance.BackColor = System.Drawing.Color.Yellow;
+            formatConditionRuleValue29.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue29.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue29.Value1 = 0;
+            gridFormatRule29.Rule = formatConditionRuleValue29;
+            gridFormatRule30.Column = this.gridColumn12;
+            gridFormatRule30.ColumnApplyTo = this.gridColumn2;
+            gridFormatRule30.Name = "Format1";
+            formatConditionRuleValue30.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            formatConditionRuleValue30.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue30.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue30.Value1 = 10;
+            gridFormatRule30.Rule = formatConditionRuleValue30;
+            gridFormatRule31.Column = this.gridColumn12;
+            gridFormatRule31.ColumnApplyTo = this.gridColumn2;
+            gridFormatRule31.Name = "Format2";
+            formatConditionRuleValue31.Appearance.BackColor = System.Drawing.Color.Red;
+            formatConditionRuleValue31.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue31.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue31.Value1 = 20;
+            gridFormatRule31.Rule = formatConditionRuleValue31;
+            gridFormatRule32.Column = this.gridColumn12;
+            gridFormatRule32.ColumnApplyTo = this.gridColumn2;
+            gridFormatRule32.Name = "Format3";
+            formatConditionRuleValue32.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            formatConditionRuleValue32.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue32.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue32.Value1 = 30;
+            gridFormatRule32.Rule = formatConditionRuleValue32;
+            gridFormatRule33.Column = this.gridColumn13;
+            gridFormatRule33.ColumnApplyTo = this.gridColumn3;
+            gridFormatRule33.Name = "Format4";
+            formatConditionRuleValue33.Appearance.BackColor = System.Drawing.Color.Yellow;
+            formatConditionRuleValue33.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue33.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue33.Value1 = 0;
+            gridFormatRule33.Rule = formatConditionRuleValue33;
+            gridFormatRule34.Column = this.gridColumn13;
+            gridFormatRule34.ColumnApplyTo = this.gridColumn3;
+            gridFormatRule34.Name = "Format5";
+            formatConditionRuleValue34.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            formatConditionRuleValue34.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue34.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue34.Value1 = 10;
+            gridFormatRule34.Rule = formatConditionRuleValue34;
+            gridFormatRule35.Column = this.gridColumn13;
+            gridFormatRule35.ColumnApplyTo = this.gridColumn3;
+            gridFormatRule35.Name = "Format6";
+            formatConditionRuleValue35.Appearance.BackColor = System.Drawing.Color.Red;
+            formatConditionRuleValue35.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue35.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue35.Value1 = 20;
+            gridFormatRule35.Rule = formatConditionRuleValue35;
+            gridFormatRule36.Column = this.gridColumn13;
+            gridFormatRule36.ColumnApplyTo = this.gridColumn3;
+            gridFormatRule36.Name = "Format7";
+            formatConditionRuleValue36.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            formatConditionRuleValue36.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue36.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue36.Value1 = 30;
+            gridFormatRule36.Rule = formatConditionRuleValue36;
+            gridFormatRule37.Column = this.gridColumn14;
+            gridFormatRule37.ColumnApplyTo = this.gridColumn4;
+            gridFormatRule37.Name = "Format8";
+            formatConditionRuleValue37.Appearance.BackColor = System.Drawing.Color.Yellow;
+            formatConditionRuleValue37.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue37.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue37.Value1 = 0;
+            gridFormatRule37.Rule = formatConditionRuleValue37;
+            gridFormatRule38.Column = this.gridColumn14;
+            gridFormatRule38.ColumnApplyTo = this.gridColumn4;
+            gridFormatRule38.Name = "Format9";
+            formatConditionRuleValue38.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            formatConditionRuleValue38.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue38.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue38.Value1 = 10;
+            gridFormatRule38.Rule = formatConditionRuleValue38;
+            gridFormatRule39.Column = this.gridColumn14;
+            gridFormatRule39.ColumnApplyTo = this.gridColumn4;
+            gridFormatRule39.Name = "Format10";
+            formatConditionRuleValue39.Appearance.BackColor = System.Drawing.Color.Red;
+            formatConditionRuleValue39.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue39.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue39.Value1 = 20;
+            gridFormatRule39.Rule = formatConditionRuleValue39;
+            gridFormatRule40.Column = this.gridColumn14;
+            gridFormatRule40.ColumnApplyTo = this.gridColumn4;
+            gridFormatRule40.Name = "Format11";
+            formatConditionRuleValue40.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            formatConditionRuleValue40.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue40.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue40.Value1 = 30;
+            gridFormatRule40.Rule = formatConditionRuleValue40;
+            gridFormatRule41.Column = this.gridColumn15;
+            gridFormatRule41.ColumnApplyTo = this.gridColumn5;
+            gridFormatRule41.Name = "Format12";
+            formatConditionRuleValue41.Appearance.BackColor = System.Drawing.Color.Yellow;
+            formatConditionRuleValue41.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue41.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue41.Value1 = 0;
+            gridFormatRule41.Rule = formatConditionRuleValue41;
+            gridFormatRule42.Column = this.gridColumn15;
+            gridFormatRule42.ColumnApplyTo = this.gridColumn5;
+            gridFormatRule42.Name = "Format13";
+            formatConditionRuleValue42.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            formatConditionRuleValue42.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue42.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue42.Value1 = 10;
+            gridFormatRule42.Rule = formatConditionRuleValue42;
+            gridFormatRule43.Column = this.gridColumn15;
+            gridFormatRule43.ColumnApplyTo = this.gridColumn5;
+            gridFormatRule43.Name = "Format14";
+            formatConditionRuleValue43.Appearance.BackColor = System.Drawing.Color.Red;
+            formatConditionRuleValue43.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue43.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue43.Value1 = 20;
+            gridFormatRule43.Rule = formatConditionRuleValue43;
+            gridFormatRule44.Column = this.gridColumn15;
+            gridFormatRule44.ColumnApplyTo = this.gridColumn5;
+            gridFormatRule44.Name = "Format15";
+            formatConditionRuleValue44.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            formatConditionRuleValue44.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue44.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue44.Value1 = 30;
+            gridFormatRule44.Rule = formatConditionRuleValue44;
+            gridFormatRule45.Column = this.gridColumn16;
+            gridFormatRule45.ColumnApplyTo = this.gridColumn6;
+            gridFormatRule45.Name = "Format16";
+            formatConditionRuleValue45.Appearance.BackColor = System.Drawing.Color.Yellow;
+            formatConditionRuleValue45.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue45.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue45.Value1 = 0;
+            gridFormatRule45.Rule = formatConditionRuleValue45;
+            gridFormatRule46.Column = this.gridColumn16;
+            gridFormatRule46.ColumnApplyTo = this.gridColumn6;
+            gridFormatRule46.Name = "Format17";
+            formatConditionRuleValue46.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            formatConditionRuleValue46.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue46.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue46.Value1 = 10;
+            gridFormatRule46.Rule = formatConditionRuleValue46;
+            gridFormatRule47.Column = this.gridColumn16;
+            gridFormatRule47.ColumnApplyTo = this.gridColumn6;
+            gridFormatRule47.Name = "Format18";
+            formatConditionRuleValue47.Appearance.BackColor = System.Drawing.Color.Red;
+            formatConditionRuleValue47.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue47.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue47.Value1 = 20;
+            gridFormatRule47.Rule = formatConditionRuleValue47;
+            gridFormatRule48.Column = this.gridColumn16;
+            gridFormatRule48.ColumnApplyTo = this.gridColumn6;
+            gridFormatRule48.Name = "Format19";
+            formatConditionRuleValue48.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            formatConditionRuleValue48.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue48.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue48.Value1 = 30;
+            gridFormatRule48.Rule = formatConditionRuleValue48;
+            gridFormatRule49.Column = this.gridColumn17;
+            gridFormatRule49.ColumnApplyTo = this.gridColumn7;
+            gridFormatRule49.Name = "Format20";
+            formatConditionRuleValue49.Appearance.BackColor = System.Drawing.Color.Yellow;
+            formatConditionRuleValue49.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue49.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue49.Value1 = 0;
+            gridFormatRule49.Rule = formatConditionRuleValue49;
+            gridFormatRule50.Column = this.gridColumn17;
+            gridFormatRule50.ColumnApplyTo = this.gridColumn7;
+            gridFormatRule50.Name = "Format21";
+            formatConditionRuleValue50.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            formatConditionRuleValue50.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue50.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue50.Value1 = 10;
+            gridFormatRule50.Rule = formatConditionRuleValue50;
+            gridFormatRule51.Column = this.gridColumn17;
+            gridFormatRule51.ColumnApplyTo = this.gridColumn7;
+            gridFormatRule51.Name = "Format22";
+            formatConditionRuleValue51.Appearance.BackColor = System.Drawing.Color.Red;
+            formatConditionRuleValue51.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue51.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue51.Value1 = 20;
+            gridFormatRule51.Rule = formatConditionRuleValue51;
+            gridFormatRule52.Column = this.gridColumn17;
+            gridFormatRule52.ColumnApplyTo = this.gridColumn7;
+            gridFormatRule52.Name = "Format23";
+            formatConditionRuleValue52.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            formatConditionRuleValue52.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue52.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue52.Value1 = 30;
+            gridFormatRule52.Rule = formatConditionRuleValue52;
+            gridFormatRule53.Column = this.gridColumn18;
+            gridFormatRule53.ColumnApplyTo = this.gridColumn8;
+            gridFormatRule53.Name = "Format24";
+            formatConditionRuleValue53.Appearance.BackColor = System.Drawing.Color.Yellow;
+            formatConditionRuleValue53.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue53.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue53.Value1 = 0;
+            gridFormatRule53.Rule = formatConditionRuleValue53;
+            gridFormatRule54.Column = this.gridColumn18;
+            gridFormatRule54.ColumnApplyTo = this.gridColumn8;
+            gridFormatRule54.Name = "Format25";
+            formatConditionRuleValue54.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            formatConditionRuleValue54.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue54.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue54.Value1 = 10;
+            gridFormatRule54.Rule = formatConditionRuleValue54;
+            gridFormatRule55.Column = this.gridColumn18;
+            gridFormatRule55.ColumnApplyTo = this.gridColumn8;
+            gridFormatRule55.Name = "Format26";
+            formatConditionRuleValue55.Appearance.BackColor = System.Drawing.Color.Red;
+            formatConditionRuleValue55.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue55.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue55.Value1 = 20;
+            gridFormatRule55.Rule = formatConditionRuleValue55;
+            gridFormatRule56.Column = this.gridColumn18;
+            gridFormatRule56.ColumnApplyTo = this.gridColumn8;
+            gridFormatRule56.Name = "Format27";
+            formatConditionRuleValue56.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            formatConditionRuleValue56.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue56.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
+            formatConditionRuleValue56.Value1 = 30;
+            gridFormatRule56.Rule = formatConditionRuleValue56;
+            this.gridView2.FormatRules.Add(gridFormatRule29);
+            this.gridView2.FormatRules.Add(gridFormatRule30);
+            this.gridView2.FormatRules.Add(gridFormatRule31);
+            this.gridView2.FormatRules.Add(gridFormatRule32);
+            this.gridView2.FormatRules.Add(gridFormatRule33);
+            this.gridView2.FormatRules.Add(gridFormatRule34);
+            this.gridView2.FormatRules.Add(gridFormatRule35);
+            this.gridView2.FormatRules.Add(gridFormatRule36);
+            this.gridView2.FormatRules.Add(gridFormatRule37);
+            this.gridView2.FormatRules.Add(gridFormatRule38);
+            this.gridView2.FormatRules.Add(gridFormatRule39);
+            this.gridView2.FormatRules.Add(gridFormatRule40);
+            this.gridView2.FormatRules.Add(gridFormatRule41);
+            this.gridView2.FormatRules.Add(gridFormatRule42);
+            this.gridView2.FormatRules.Add(gridFormatRule43);
+            this.gridView2.FormatRules.Add(gridFormatRule44);
+            this.gridView2.FormatRules.Add(gridFormatRule45);
+            this.gridView2.FormatRules.Add(gridFormatRule46);
+            this.gridView2.FormatRules.Add(gridFormatRule47);
+            this.gridView2.FormatRules.Add(gridFormatRule48);
+            this.gridView2.FormatRules.Add(gridFormatRule49);
+            this.gridView2.FormatRules.Add(gridFormatRule50);
+            this.gridView2.FormatRules.Add(gridFormatRule51);
+            this.gridView2.FormatRules.Add(gridFormatRule52);
+            this.gridView2.FormatRules.Add(gridFormatRule53);
+            this.gridView2.FormatRules.Add(gridFormatRule54);
+            this.gridView2.FormatRules.Add(gridFormatRule55);
+            this.gridView2.FormatRules.Add(gridFormatRule56);
             this.gridView2.GridControl = this.gridControl2;
             this.gridView2.Name = "gridView2";
             this.gridView2.OptionsBehavior.Editable = false;
@@ -928,69 +1034,6 @@
             this.gridColumn1.Visible = true;
             this.gridColumn1.VisibleIndex = 0;
             this.gridColumn1.Width = 45;
-            // 
-            // gridColumn2
-            // 
-            this.gridColumn2.Caption = "I";
-            this.gridColumn2.FieldName = "I";
-            this.gridColumn2.Name = "gridColumn2";
-            this.gridColumn2.Visible = true;
-            this.gridColumn2.VisibleIndex = 1;
-            this.gridColumn2.Width = 45;
-            // 
-            // gridColumn3
-            // 
-            this.gridColumn3.Caption = "II";
-            this.gridColumn3.FieldName = "II";
-            this.gridColumn3.Name = "gridColumn3";
-            this.gridColumn3.Visible = true;
-            this.gridColumn3.VisibleIndex = 2;
-            this.gridColumn3.Width = 45;
-            // 
-            // gridColumn4
-            // 
-            this.gridColumn4.Caption = "III";
-            this.gridColumn4.FieldName = "III";
-            this.gridColumn4.Name = "gridColumn4";
-            this.gridColumn4.Visible = true;
-            this.gridColumn4.VisibleIndex = 3;
-            this.gridColumn4.Width = 45;
-            // 
-            // gridColumn5
-            // 
-            this.gridColumn5.Caption = "IV";
-            this.gridColumn5.FieldName = "IV";
-            this.gridColumn5.Name = "gridColumn5";
-            this.gridColumn5.Visible = true;
-            this.gridColumn5.VisibleIndex = 4;
-            this.gridColumn5.Width = 45;
-            // 
-            // gridColumn6
-            // 
-            this.gridColumn6.Caption = "V";
-            this.gridColumn6.FieldName = "V";
-            this.gridColumn6.Name = "gridColumn6";
-            this.gridColumn6.Visible = true;
-            this.gridColumn6.VisibleIndex = 5;
-            this.gridColumn6.Width = 45;
-            // 
-            // gridColumn7
-            // 
-            this.gridColumn7.Caption = "VI";
-            this.gridColumn7.FieldName = "VI";
-            this.gridColumn7.Name = "gridColumn7";
-            this.gridColumn7.Visible = true;
-            this.gridColumn7.VisibleIndex = 6;
-            this.gridColumn7.Width = 45;
-            // 
-            // gridColumn8
-            // 
-            this.gridColumn8.Caption = "VII";
-            this.gridColumn8.FieldName = "VII";
-            this.gridColumn8.Name = "gridColumn8";
-            this.gridColumn8.Visible = true;
-            this.gridColumn8.VisibleIndex = 7;
-            this.gridColumn8.Width = 45;
             // 
             // gridColumn9
             // 
@@ -1019,63 +1062,24 @@
             this.gridColumn11.VisibleIndex = 10;
             this.gridColumn11.Width = 60;
             // 
-            // gridColumn12
+            // calcEdit1
             // 
-            this.gridColumn12.Caption = "DI";
-            this.gridColumn12.FieldName = "DI";
-            this.gridColumn12.Name = "gridColumn12";
-            // 
-            // gridColumn13
-            // 
-            this.gridColumn13.Caption = "DII";
-            this.gridColumn13.FieldName = "DII";
-            this.gridColumn13.Name = "gridColumn13";
-            // 
-            // gridColumn14
-            // 
-            this.gridColumn14.Caption = "DIII";
-            this.gridColumn14.FieldName = "DIII";
-            this.gridColumn14.Name = "gridColumn14";
-            // 
-            // gridColumn15
-            // 
-            this.gridColumn15.Caption = "DIV";
-            this.gridColumn15.FieldName = "DIV";
-            this.gridColumn15.Name = "gridColumn15";
-            // 
-            // gridColumn16
-            // 
-            this.gridColumn16.Caption = "DV";
-            this.gridColumn16.FieldName = "DV";
-            this.gridColumn16.Name = "gridColumn16";
-            // 
-            // gridColumn17
-            // 
-            this.gridColumn17.Caption = "DVI";
-            this.gridColumn17.FieldName = "DVI";
-            this.gridColumn17.Name = "gridColumn17";
-            // 
-            // gridColumn18
-            // 
-            this.gridColumn18.Caption = "DVII";
-            this.gridColumn18.FieldName = "DVII";
-            this.gridColumn18.Name = "gridColumn18";
-            // 
-            // simpleButton1
-            // 
-            this.simpleButton1.Location = new System.Drawing.Point(1046, 63);
-            this.simpleButton1.Name = "simpleButton1";
-            this.simpleButton1.Size = new System.Drawing.Size(75, 23);
-            this.simpleButton1.TabIndex = 2;
-            this.simpleButton1.Text = "Export";
-            this.simpleButton1.Click += new System.EventHandler(this.simpleButton1_Click);
+            this.calcEdit1.Location = new System.Drawing.Point(1043, 35);
+            this.calcEdit1.Name = "calcEdit1";
+            this.calcEdit1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.calcEdit1.Properties.Mask.EditMask = "n0";
+            this.calcEdit1.Properties.Precision = 0;
+            this.calcEdit1.Size = new System.Drawing.Size(77, 20);
+            this.calcEdit1.TabIndex = 2;
+            this.calcEdit1.EditValueChanged += new System.EventHandler(this.calcEdit1_EditValueChanged);
             // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1122, 632);
-            this.Controls.Add(this.simpleButton1);
+            this.ClientSize = new System.Drawing.Size(1153, 632);
+            this.Controls.Add(this.calcEdit1);
             this.Controls.Add(this.gridControl2);
             this.Controls.Add(this.gridControl1);
             this.Name = "frmMain";
@@ -1085,6 +1089,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.gridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridControl2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.calcEdit1.Properties)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -1131,6 +1136,6 @@
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn16;
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn17;
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn18;
-        private DevExpress.XtraEditors.SimpleButton simpleButton1;
+        private DevExpress.XtraEditors.CalcEdit calcEdit1;
     }
 }

@@ -20,11 +20,12 @@ namespace Lotto
 
         private void frmMain_Load(object sender, EventArgs e)
         {
-            var result = new DataReaderFromCSV().GetExtractions();
+            var result = new DataReaderFromCSV().GetExtractions("lotto.csv");
             //gridControl1.DataSource = result;
             //new DataAnalyser(result).GetProcentage();
             gridControl1.DataSource = new DataAnalyser(result).GetTableResults();
-            //gridControl2.DataSource = GetKombinacije();
+
+            
         }
 
         //private DataTable GetKombinacije()
@@ -110,6 +111,12 @@ namespace Lotto
         private void simpleButton1_Click(object sender, EventArgs e)
         {
             //gridView2.Export(DevExpress.XtraPrinting.ExportTarget.Csv, "Kombinacije.csv");
+        }
+
+        private void calcEdit1_EditValueChanged(object sender, EventArgs e)
+        {
+            var result2 = new DataReaderFromCSV().GetExtractions(string.Format("Komb{0}.csv",calcEdit1.EditValue));
+            gridControl2.DataSource = new DataAnalyser(result2).GetTableResults();
         }
     }
 }

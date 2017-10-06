@@ -8,12 +8,12 @@ namespace Lotto
     class DataReaderFromCSV : DataReader
     {
         //TODO file name kao parametar
-        const string fileName = "lotto.csv";
+        //const string fileName = "lotto.csv";
         readonly char[] trimCharacters = { ',' };
         ////const string datePattern = @"^(\d{1,2})\/(\d{1,2})\/(\d{4})";
         //const string datePattern = @"^(\d{1,2})\.(\d{1,2})\.(\d{4})";
 
-        public List<Extraction> GetExtractions()
+        public List<Extraction> GetExtractions(string fileName)
         {
             List<Extraction> result = new List<Extraction>();
             //DateTime dt = new DateTime();
@@ -32,7 +32,7 @@ namespace Lotto
                     //    extraction.ExtractionDate = dt;// Convert.ToDateTime(cellInfo);
                     //}
                     //else
-                        extraction.Numbers.Add(Convert.ToByte(cellInfo));
+                        extraction.Numbers.Add(Convert.ToInt32(cellInfo));
                 }
                 result.Add(extraction);
             }

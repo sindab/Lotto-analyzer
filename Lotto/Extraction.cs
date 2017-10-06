@@ -8,14 +8,14 @@ namespace Lotto
         public Extraction()
         {
             //ExtractionDate = new DateTime();
-            Numbers = new List<byte>();
+            Numbers = new List<Int32>();
         }
 
         //public DateTime ExtractionDate { get; internal set; }
 
-        public List<byte> Numbers { get; internal set; }
+        public List<Int32> Numbers { get; internal set; }
 
-        public byte[] NumbersAsArray
+        public Int32[] NumbersAsArray
         {
             get
             {
@@ -27,7 +27,7 @@ namespace Lotto
 
         public override string ToString()
         {
-            return string.Format("{0} {1} {2} {3} {4} {5}",  NumbersAsArray[0], NumbersAsArray[1], NumbersAsArray[2], NumbersAsArray[3], NumbersAsArray[4], NumbersAsArray[5]);
+            return string.Format("{0} {1} {2} {3} {4} {5} {6} {7}",  NumbersAsArray[0], NumbersAsArray[1], NumbersAsArray[2], NumbersAsArray[3], NumbersAsArray[4], NumbersAsArray[5], NumbersAsArray[6], NumbersAsArray[7]);
         }
     }
 }

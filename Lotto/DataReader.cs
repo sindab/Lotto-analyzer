@@ -8,6 +8,6 @@ namespace Lotto
 {
     interface DataReader
     {
-        List<Extraction> GetExtractions();
+        List<Extraction> GetExtractions(string fileName);
     }
 }
