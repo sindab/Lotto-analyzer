@@ -97,6 +97,33 @@ namespace Lotto
             dt.Columns.Add(new DataColumn("DV", Type.GetType("System.Int32")));
             dt.Columns.Add(new DataColumn("DVI", Type.GetType("System.Int32")));
             dt.Columns.Add(new DataColumn("DVII", Type.GetType("System.Int32")));
+
+            dt.Columns.Add(new DataColumn("VII-VI", Type.GetType("System.Int32")));
+            dt.Columns.Add(new DataColumn("VII-V", Type.GetType("System.Int32")));
+            dt.Columns.Add(new DataColumn("VII-IV", Type.GetType("System.Int32")));
+            dt.Columns.Add(new DataColumn("VII-III", Type.GetType("System.Int32")));
+            dt.Columns.Add(new DataColumn("VII-II", Type.GetType("System.Int32")));
+            dt.Columns.Add(new DataColumn("VII-I", Type.GetType("System.Int32")));
+
+            dt.Columns.Add(new DataColumn("VI-V", Type.GetType("System.Int32")));
+            dt.Columns.Add(new DataColumn("VI-IV", Type.GetType("System.Int32")));
+            dt.Columns.Add(new DataColumn("VI-III", Type.GetType("System.Int32")));
+            dt.Columns.Add(new DataColumn("VI-II", Type.GetType("System.Int32")));
+            dt.Columns.Add(new DataColumn("VI-I", Type.GetType("System.Int32")));
+
+            dt.Columns.Add(new DataColumn("V-IV", Type.GetType("System.Int32")));
+            dt.Columns.Add(new DataColumn("V-III", Type.GetType("System.Int32")));
+            dt.Columns.Add(new DataColumn("V-II", Type.GetType("System.Int32")));
+            dt.Columns.Add(new DataColumn("V-I", Type.GetType("System.Int32")));
+
+            dt.Columns.Add(new DataColumn("IV-III", Type.GetType("System.Int32")));
+            dt.Columns.Add(new DataColumn("IV-II", Type.GetType("System.Int32")));
+            dt.Columns.Add(new DataColumn("IV-I", Type.GetType("System.Int32")));
+
+            dt.Columns.Add(new DataColumn("III-II", Type.GetType("System.Int32")));
+            dt.Columns.Add(new DataColumn("III-I", Type.GetType("System.Int32")));
+
+            dt.Columns.Add(new DataColumn("II-I", Type.GetType("System.Int32")));
             DataRow _red;
             
             //int[] numbersCount = new int[40];
@@ -132,6 +159,34 @@ namespace Lotto
                 _red["DV"] = extraction.NumbersAsArray[4] - extraction.NumbersAsArray[4] % 10;
                 _red["DVI"] = extraction.NumbersAsArray[5] - extraction.NumbersAsArray[5] % 10;
                 _red["DVII"] = extraction.NumbersAsArray[6] - extraction.NumbersAsArray[6] % 10;
+
+                _red["VII-I"] = extraction.NumbersAsArray[6] - extraction.NumbersAsArray[0];
+                _red["VII-II"] = extraction.NumbersAsArray[6] - extraction.NumbersAsArray[1];
+                _red["VII-III"] = extraction.NumbersAsArray[6] - extraction.NumbersAsArray[2];
+                _red["VII-IV"] = extraction.NumbersAsArray[6] - extraction.NumbersAsArray[3];
+                _red["VII-V"] = extraction.NumbersAsArray[6] - extraction.NumbersAsArray[4];
+                _red["VII-VI"] = extraction.NumbersAsArray[6] - extraction.NumbersAsArray[5];
+
+                _red["VI-I"] = extraction.NumbersAsArray[5] - extraction.NumbersAsArray[0];
+                _red["VI-II"] = extraction.NumbersAsArray[5] - extraction.NumbersAsArray[1];
+                _red["VI-III"] = extraction.NumbersAsArray[5] - extraction.NumbersAsArray[2];
+                _red["VI-IV"] = extraction.NumbersAsArray[5] - extraction.NumbersAsArray[3];
+                _red["VI-V"] = extraction.NumbersAsArray[5] - extraction.NumbersAsArray[4];
+
+                _red["V-I"] = extraction.NumbersAsArray[4] - extraction.NumbersAsArray[0];
+                _red["V-II"] = extraction.NumbersAsArray[4] - extraction.NumbersAsArray[1];
+                _red["V-III"] = extraction.NumbersAsArray[4] - extraction.NumbersAsArray[2];
+                _red["V-IV"] = extraction.NumbersAsArray[4] - extraction.NumbersAsArray[3];
+
+                _red["IV-I"] = extraction.NumbersAsArray[3] - extraction.NumbersAsArray[0];
+                _red["IV-II"] = extraction.NumbersAsArray[3] - extraction.NumbersAsArray[1];
+                _red["IV-III"] = extraction.NumbersAsArray[3] - extraction.NumbersAsArray[2];
+
+                _red["III-I"] = extraction.NumbersAsArray[2] - extraction.NumbersAsArray[0];
+                _red["III-II"] = extraction.NumbersAsArray[2] - extraction.NumbersAsArray[1];
+
+                _red["II-I"] = extraction.NumbersAsArray[1] - extraction.NumbersAsArray[0];
+
                 //    //Math.Abs((int)Math.IEEERemainder(extraction.NumbersAsArray[1], 2)) + 
                 //    //Math.Abs((int)Math.IEEERemainder(extraction.NumbersAsArray[2], 2)) + 
                 //    //Math.Abs((int)Math.IEEERemainder(extraction.NumbersAsArray[3], 2)) + 

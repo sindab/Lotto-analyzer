@@ -84,62 +84,6 @@
             DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue27 = new DevExpress.XtraEditors.FormatConditionRuleValue();
             DevExpress.XtraGrid.GridFormatRule gridFormatRule28 = new DevExpress.XtraGrid.GridFormatRule();
             DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue28 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule29 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue29 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule30 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue30 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule31 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue31 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule32 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue32 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule33 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue33 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule34 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue34 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule35 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue35 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule36 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue36 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule37 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue37 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule38 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue38 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule39 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue39 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule40 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue40 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule41 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue41 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule42 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue42 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule43 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue43 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule44 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue44 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule45 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue45 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule46 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue46 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule47 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue47 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule48 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue48 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule49 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue49 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule50 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue50 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule51 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue51 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule52 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue52 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule53 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue53 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule54 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue54 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule55 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue55 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule56 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue56 = new DevExpress.XtraEditors.FormatConditionRuleValue();
             this.gcDI = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gcI = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gcDII = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -154,38 +98,35 @@
             this.gcVI = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gcDVII = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gcVII = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn12 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn2 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn13 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn3 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn14 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn4 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn15 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn5 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn16 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn6 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn17 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn7 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn18 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn8 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridControl1 = new DevExpress.XtraGrid.GridControl();
             this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.gcRBr = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gcPar = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gcNepar = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gcSuma = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridControl2 = new DevExpress.XtraGrid.GridControl();
-            this.gridView2 = new DevExpress.XtraGrid.Views.Grid.GridView();
-            this.gridColumn1 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn9 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn10 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.gridColumn11 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.calcEdit1 = new DevExpress.XtraEditors.CalcEdit();
+            this.gcVIImVI = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcVIImV = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcVIImIV = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcVIImIII = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcVIImII = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcVIImI = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcVImV = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcVImIV = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcVImIII = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcVImII = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcVImI = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcVmIV = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcVmIII = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcVmII = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcVmI = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcIVmIII = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcIVmII = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcIVmI = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcIIImII = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcIIImI = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcIImI = new DevExpress.XtraGrid.Columns.GridColumn();
             ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridControl2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridView2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.calcEdit1.Properties)).BeginInit();
             this.SuspendLayout();
             // 
             // gcDI
@@ -193,218 +134,162 @@
             this.gcDI.Caption = "DI";
             this.gcDI.FieldName = "DI";
             this.gcDI.Name = "gcDI";
+            this.gcDI.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "DI", "{0:0.##}")});
+            this.gcDI.Visible = true;
+            this.gcDI.VisibleIndex = 11;
+            this.gcDI.Width = 76;
             // 
             // gcI
             // 
             this.gcI.Caption = "I";
             this.gcI.FieldName = "I";
             this.gcI.Name = "gcI";
+            this.gcI.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "I", "{0:0.##}")});
             this.gcI.Visible = true;
             this.gcI.VisibleIndex = 1;
-            this.gcI.Width = 45;
+            this.gcI.Width = 46;
             // 
             // gcDII
             // 
             this.gcDII.Caption = "DII";
             this.gcDII.FieldName = "DII";
             this.gcDII.Name = "gcDII";
+            this.gcDII.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "DII", "{0:0.##}")});
+            this.gcDII.Visible = true;
+            this.gcDII.VisibleIndex = 12;
+            this.gcDII.Width = 76;
             // 
             // gcII
             // 
             this.gcII.Caption = "II";
             this.gcII.FieldName = "II";
             this.gcII.Name = "gcII";
+            this.gcII.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "II", "{0:0.##}")});
             this.gcII.Visible = true;
             this.gcII.VisibleIndex = 2;
-            this.gcII.Width = 45;
+            this.gcII.Width = 46;
             // 
             // gcDIII
             // 
             this.gcDIII.Caption = "DIII";
             this.gcDIII.FieldName = "DIII";
             this.gcDIII.Name = "gcDIII";
+            this.gcDIII.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "DIII", "{0:0.##}")});
+            this.gcDIII.Visible = true;
+            this.gcDIII.VisibleIndex = 13;
+            this.gcDIII.Width = 76;
             // 
             // gcIII
             // 
             this.gcIII.Caption = "III";
             this.gcIII.FieldName = "III";
             this.gcIII.Name = "gcIII";
+            this.gcIII.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "III", "{0:0.##}")});
             this.gcIII.Visible = true;
             this.gcIII.VisibleIndex = 3;
-            this.gcIII.Width = 45;
+            this.gcIII.Width = 46;
             // 
             // gcDIV
             // 
             this.gcDIV.Caption = "DIV";
             this.gcDIV.FieldName = "DIV";
             this.gcDIV.Name = "gcDIV";
+            this.gcDIV.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "DIV", "{0:0.##}")});
+            this.gcDIV.Visible = true;
+            this.gcDIV.VisibleIndex = 14;
+            this.gcDIV.Width = 76;
             // 
             // gcIV
             // 
             this.gcIV.Caption = "IV";
             this.gcIV.FieldName = "IV";
             this.gcIV.Name = "gcIV";
+            this.gcIV.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "IV", "{0:0.##}")});
             this.gcIV.Visible = true;
             this.gcIV.VisibleIndex = 4;
-            this.gcIV.Width = 45;
+            this.gcIV.Width = 46;
             // 
             // gcDV
             // 
             this.gcDV.Caption = "DV";
             this.gcDV.FieldName = "DV";
             this.gcDV.Name = "gcDV";
+            this.gcDV.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "DV", "{0:0.##}")});
+            this.gcDV.Visible = true;
+            this.gcDV.VisibleIndex = 15;
+            this.gcDV.Width = 76;
             // 
             // gcV
             // 
             this.gcV.Caption = "V";
             this.gcV.FieldName = "V";
             this.gcV.Name = "gcV";
+            this.gcV.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "V", "{0:0.##}")});
             this.gcV.Visible = true;
             this.gcV.VisibleIndex = 5;
-            this.gcV.Width = 45;
+            this.gcV.Width = 46;
             // 
             // gcDVI
             // 
             this.gcDVI.Caption = "DVI";
             this.gcDVI.FieldName = "DVI";
             this.gcDVI.Name = "gcDVI";
+            this.gcDVI.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "DVI", "{0:0.##}")});
+            this.gcDVI.Visible = true;
+            this.gcDVI.VisibleIndex = 16;
+            this.gcDVI.Width = 76;
             // 
             // gcVI
             // 
             this.gcVI.Caption = "VI";
             this.gcVI.FieldName = "VI";
             this.gcVI.Name = "gcVI";
+            this.gcVI.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "VI", "{0:0.##}")});
             this.gcVI.Visible = true;
             this.gcVI.VisibleIndex = 6;
-            this.gcVI.Width = 45;
+            this.gcVI.Width = 46;
             // 
             // gcDVII
             // 
             this.gcDVII.Caption = "DVII";
             this.gcDVII.FieldName = "DVII";
             this.gcDVII.Name = "gcDVII";
+            this.gcDVII.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "DVII", "{0:0.##}")});
+            this.gcDVII.Visible = true;
+            this.gcDVII.VisibleIndex = 17;
+            this.gcDVII.Width = 76;
             // 
             // gcVII
             // 
             this.gcVII.Caption = "VII";
             this.gcVII.FieldName = "VII";
             this.gcVII.Name = "gcVII";
+            this.gcVII.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "VII", "{0:0.##}")});
             this.gcVII.Visible = true;
             this.gcVII.VisibleIndex = 7;
-            this.gcVII.Width = 45;
-            // 
-            // gridColumn12
-            // 
-            this.gridColumn12.Caption = "DI";
-            this.gridColumn12.FieldName = "DI";
-            this.gridColumn12.Name = "gridColumn12";
-            // 
-            // gridColumn2
-            // 
-            this.gridColumn2.Caption = "I";
-            this.gridColumn2.FieldName = "I";
-            this.gridColumn2.Name = "gridColumn2";
-            this.gridColumn2.Visible = true;
-            this.gridColumn2.VisibleIndex = 1;
-            this.gridColumn2.Width = 45;
-            // 
-            // gridColumn13
-            // 
-            this.gridColumn13.Caption = "DII";
-            this.gridColumn13.FieldName = "DII";
-            this.gridColumn13.Name = "gridColumn13";
-            // 
-            // gridColumn3
-            // 
-            this.gridColumn3.Caption = "II";
-            this.gridColumn3.FieldName = "II";
-            this.gridColumn3.Name = "gridColumn3";
-            this.gridColumn3.Visible = true;
-            this.gridColumn3.VisibleIndex = 2;
-            this.gridColumn3.Width = 45;
-            // 
-            // gridColumn14
-            // 
-            this.gridColumn14.Caption = "DIII";
-            this.gridColumn14.FieldName = "DIII";
-            this.gridColumn14.Name = "gridColumn14";
-            // 
-            // gridColumn4
-            // 
-            this.gridColumn4.Caption = "III";
-            this.gridColumn4.FieldName = "III";
-            this.gridColumn4.Name = "gridColumn4";
-            this.gridColumn4.Visible = true;
-            this.gridColumn4.VisibleIndex = 3;
-            this.gridColumn4.Width = 45;
-            // 
-            // gridColumn15
-            // 
-            this.gridColumn15.Caption = "DIV";
-            this.gridColumn15.FieldName = "DIV";
-            this.gridColumn15.Name = "gridColumn15";
-            // 
-            // gridColumn5
-            // 
-            this.gridColumn5.Caption = "IV";
-            this.gridColumn5.FieldName = "IV";
-            this.gridColumn5.Name = "gridColumn5";
-            this.gridColumn5.Visible = true;
-            this.gridColumn5.VisibleIndex = 4;
-            this.gridColumn5.Width = 45;
-            // 
-            // gridColumn16
-            // 
-            this.gridColumn16.Caption = "DV";
-            this.gridColumn16.FieldName = "DV";
-            this.gridColumn16.Name = "gridColumn16";
-            // 
-            // gridColumn6
-            // 
-            this.gridColumn6.Caption = "V";
-            this.gridColumn6.FieldName = "V";
-            this.gridColumn6.Name = "gridColumn6";
-            this.gridColumn6.Visible = true;
-            this.gridColumn6.VisibleIndex = 5;
-            this.gridColumn6.Width = 45;
-            // 
-            // gridColumn17
-            // 
-            this.gridColumn17.Caption = "DVI";
-            this.gridColumn17.FieldName = "DVI";
-            this.gridColumn17.Name = "gridColumn17";
-            // 
-            // gridColumn7
-            // 
-            this.gridColumn7.Caption = "VI";
-            this.gridColumn7.FieldName = "VI";
-            this.gridColumn7.Name = "gridColumn7";
-            this.gridColumn7.Visible = true;
-            this.gridColumn7.VisibleIndex = 6;
-            this.gridColumn7.Width = 45;
-            // 
-            // gridColumn18
-            // 
-            this.gridColumn18.Caption = "DVII";
-            this.gridColumn18.FieldName = "DVII";
-            this.gridColumn18.Name = "gridColumn18";
-            // 
-            // gridColumn8
-            // 
-            this.gridColumn8.Caption = "VII";
-            this.gridColumn8.FieldName = "VII";
-            this.gridColumn8.Name = "gridColumn8";
-            this.gridColumn8.Visible = true;
-            this.gridColumn8.VisibleIndex = 7;
-            this.gridColumn8.Width = 45;
+            this.gcVII.Width = 46;
             // 
             // gridControl1
             // 
-            this.gridControl1.Dock = System.Windows.Forms.DockStyle.Left;
+            this.gridControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gridControl1.Location = new System.Drawing.Point(0, 0);
             this.gridControl1.MainView = this.gridView1;
             this.gridControl1.Name = "gridControl1";
-            this.gridControl1.Size = new System.Drawing.Size(516, 632);
+            this.gridControl1.Size = new System.Drawing.Size(1153, 632);
             this.gridControl1.TabIndex = 0;
             this.gridControl1.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridView1});
@@ -429,7 +314,28 @@
             this.gcDIV,
             this.gcDV,
             this.gcDVI,
-            this.gcDVII});
+            this.gcDVII,
+            this.gcVIImVI,
+            this.gcVIImV,
+            this.gcVIImIV,
+            this.gcVIImIII,
+            this.gcVIImII,
+            this.gcVIImI,
+            this.gcVImV,
+            this.gcVImIV,
+            this.gcVImIII,
+            this.gcVImII,
+            this.gcVImI,
+            this.gcVmIV,
+            this.gcVmIII,
+            this.gcVmII,
+            this.gcVmI,
+            this.gcIVmIII,
+            this.gcIVmII,
+            this.gcIVmI,
+            this.gcIIImII,
+            this.gcIIImI,
+            this.gcIImI});
             this.gridView1.FocusRectStyle = DevExpress.XtraGrid.Views.Grid.DrawFocusRectStyle.None;
             gridFormatRule1.Column = this.gcDI;
             gridFormatRule1.ColumnApplyTo = this.gcI;
@@ -701,395 +607,284 @@
             new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Count, "RBr", "{0}")});
             this.gcRBr.Visible = true;
             this.gcRBr.VisibleIndex = 0;
-            this.gcRBr.Width = 45;
+            this.gcRBr.Width = 46;
             // 
             // gcPar
             // 
             this.gcPar.Caption = "Par";
             this.gcPar.FieldName = "Par";
             this.gcPar.Name = "gcPar";
+            this.gcPar.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "Par", "{0:0.##}")});
             this.gcPar.Visible = true;
             this.gcPar.VisibleIndex = 8;
-            this.gcPar.Width = 38;
+            this.gcPar.Width = 39;
             // 
             // gcNepar
             // 
             this.gcNepar.Caption = "Nepar";
             this.gcNepar.FieldName = "Nepar";
             this.gcNepar.Name = "gcNepar";
+            this.gcNepar.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "Nepar", "{0:0.##}")});
             this.gcNepar.Visible = true;
             this.gcNepar.VisibleIndex = 9;
-            this.gcNepar.Width = 40;
+            this.gcNepar.Width = 41;
             // 
             // gcSuma
             // 
             this.gcSuma.Caption = "Suma";
             this.gcSuma.FieldName = "Suma";
             this.gcSuma.Name = "gcSuma";
+            this.gcSuma.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "Suma", "{0:0.##}")});
             this.gcSuma.Visible = true;
             this.gcSuma.VisibleIndex = 10;
-            this.gcSuma.Width = 60;
+            this.gcSuma.Width = 61;
             // 
-            // gridControl2
+            // gcVIImVI
             // 
-            this.gridControl2.Dock = System.Windows.Forms.DockStyle.Left;
-            this.gridControl2.Location = new System.Drawing.Point(516, 0);
-            this.gridControl2.MainView = this.gridView2;
-            this.gridControl2.Name = "gridControl2";
-            this.gridControl2.Size = new System.Drawing.Size(516, 632);
-            this.gridControl2.TabIndex = 1;
-            this.gridControl2.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
-            this.gridView2});
+            this.gcVIImVI.Caption = "VII-VI";
+            this.gcVIImVI.FieldName = "VII-VI";
+            this.gcVIImVI.Name = "gcVIImVI";
+            this.gcVIImVI.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "VII-VI", "{0:0.##}")});
+            this.gcVIImVI.Visible = true;
+            this.gcVIImVI.VisibleIndex = 18;
+            this.gcVIImVI.Width = 76;
             // 
-            // gridView2
+            // gcVIImV
             // 
-            this.gridView2.Columns.AddRange(new DevExpress.XtraGrid.Columns.GridColumn[] {
-            this.gridColumn1,
-            this.gridColumn2,
-            this.gridColumn3,
-            this.gridColumn4,
-            this.gridColumn5,
-            this.gridColumn6,
-            this.gridColumn7,
-            this.gridColumn8,
-            this.gridColumn9,
-            this.gridColumn10,
-            this.gridColumn11,
-            this.gridColumn12,
-            this.gridColumn13,
-            this.gridColumn14,
-            this.gridColumn15,
-            this.gridColumn16,
-            this.gridColumn17,
-            this.gridColumn18});
-            this.gridView2.FocusRectStyle = DevExpress.XtraGrid.Views.Grid.DrawFocusRectStyle.None;
-            gridFormatRule29.Column = this.gridColumn12;
-            gridFormatRule29.ColumnApplyTo = this.gridColumn2;
-            gridFormatRule29.Name = "Format0";
-            formatConditionRuleValue29.Appearance.BackColor = System.Drawing.Color.Yellow;
-            formatConditionRuleValue29.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue29.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue29.Value1 = 0;
-            gridFormatRule29.Rule = formatConditionRuleValue29;
-            gridFormatRule30.Column = this.gridColumn12;
-            gridFormatRule30.ColumnApplyTo = this.gridColumn2;
-            gridFormatRule30.Name = "Format1";
-            formatConditionRuleValue30.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue30.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue30.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue30.Value1 = 10;
-            gridFormatRule30.Rule = formatConditionRuleValue30;
-            gridFormatRule31.Column = this.gridColumn12;
-            gridFormatRule31.ColumnApplyTo = this.gridColumn2;
-            gridFormatRule31.Name = "Format2";
-            formatConditionRuleValue31.Appearance.BackColor = System.Drawing.Color.Red;
-            formatConditionRuleValue31.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue31.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue31.Value1 = 20;
-            gridFormatRule31.Rule = formatConditionRuleValue31;
-            gridFormatRule32.Column = this.gridColumn12;
-            gridFormatRule32.ColumnApplyTo = this.gridColumn2;
-            gridFormatRule32.Name = "Format3";
-            formatConditionRuleValue32.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue32.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue32.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue32.Value1 = 30;
-            gridFormatRule32.Rule = formatConditionRuleValue32;
-            gridFormatRule33.Column = this.gridColumn13;
-            gridFormatRule33.ColumnApplyTo = this.gridColumn3;
-            gridFormatRule33.Name = "Format4";
-            formatConditionRuleValue33.Appearance.BackColor = System.Drawing.Color.Yellow;
-            formatConditionRuleValue33.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue33.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue33.Value1 = 0;
-            gridFormatRule33.Rule = formatConditionRuleValue33;
-            gridFormatRule34.Column = this.gridColumn13;
-            gridFormatRule34.ColumnApplyTo = this.gridColumn3;
-            gridFormatRule34.Name = "Format5";
-            formatConditionRuleValue34.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue34.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue34.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue34.Value1 = 10;
-            gridFormatRule34.Rule = formatConditionRuleValue34;
-            gridFormatRule35.Column = this.gridColumn13;
-            gridFormatRule35.ColumnApplyTo = this.gridColumn3;
-            gridFormatRule35.Name = "Format6";
-            formatConditionRuleValue35.Appearance.BackColor = System.Drawing.Color.Red;
-            formatConditionRuleValue35.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue35.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue35.Value1 = 20;
-            gridFormatRule35.Rule = formatConditionRuleValue35;
-            gridFormatRule36.Column = this.gridColumn13;
-            gridFormatRule36.ColumnApplyTo = this.gridColumn3;
-            gridFormatRule36.Name = "Format7";
-            formatConditionRuleValue36.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue36.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue36.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue36.Value1 = 30;
-            gridFormatRule36.Rule = formatConditionRuleValue36;
-            gridFormatRule37.Column = this.gridColumn14;
-            gridFormatRule37.ColumnApplyTo = this.gridColumn4;
-            gridFormatRule37.Name = "Format8";
-            formatConditionRuleValue37.Appearance.BackColor = System.Drawing.Color.Yellow;
-            formatConditionRuleValue37.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue37.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue37.Value1 = 0;
-            gridFormatRule37.Rule = formatConditionRuleValue37;
-            gridFormatRule38.Column = this.gridColumn14;
-            gridFormatRule38.ColumnApplyTo = this.gridColumn4;
-            gridFormatRule38.Name = "Format9";
-            formatConditionRuleValue38.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue38.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue38.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue38.Value1 = 10;
-            gridFormatRule38.Rule = formatConditionRuleValue38;
-            gridFormatRule39.Column = this.gridColumn14;
-            gridFormatRule39.ColumnApplyTo = this.gridColumn4;
-            gridFormatRule39.Name = "Format10";
-            formatConditionRuleValue39.Appearance.BackColor = System.Drawing.Color.Red;
-            formatConditionRuleValue39.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue39.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue39.Value1 = 20;
-            gridFormatRule39.Rule = formatConditionRuleValue39;
-            gridFormatRule40.Column = this.gridColumn14;
-            gridFormatRule40.ColumnApplyTo = this.gridColumn4;
-            gridFormatRule40.Name = "Format11";
-            formatConditionRuleValue40.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue40.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue40.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue40.Value1 = 30;
-            gridFormatRule40.Rule = formatConditionRuleValue40;
-            gridFormatRule41.Column = this.gridColumn15;
-            gridFormatRule41.ColumnApplyTo = this.gridColumn5;
-            gridFormatRule41.Name = "Format12";
-            formatConditionRuleValue41.Appearance.BackColor = System.Drawing.Color.Yellow;
-            formatConditionRuleValue41.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue41.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue41.Value1 = 0;
-            gridFormatRule41.Rule = formatConditionRuleValue41;
-            gridFormatRule42.Column = this.gridColumn15;
-            gridFormatRule42.ColumnApplyTo = this.gridColumn5;
-            gridFormatRule42.Name = "Format13";
-            formatConditionRuleValue42.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue42.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue42.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue42.Value1 = 10;
-            gridFormatRule42.Rule = formatConditionRuleValue42;
-            gridFormatRule43.Column = this.gridColumn15;
-            gridFormatRule43.ColumnApplyTo = this.gridColumn5;
-            gridFormatRule43.Name = "Format14";
-            formatConditionRuleValue43.Appearance.BackColor = System.Drawing.Color.Red;
-            formatConditionRuleValue43.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue43.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue43.Value1 = 20;
-            gridFormatRule43.Rule = formatConditionRuleValue43;
-            gridFormatRule44.Column = this.gridColumn15;
-            gridFormatRule44.ColumnApplyTo = this.gridColumn5;
-            gridFormatRule44.Name = "Format15";
-            formatConditionRuleValue44.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue44.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue44.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue44.Value1 = 30;
-            gridFormatRule44.Rule = formatConditionRuleValue44;
-            gridFormatRule45.Column = this.gridColumn16;
-            gridFormatRule45.ColumnApplyTo = this.gridColumn6;
-            gridFormatRule45.Name = "Format16";
-            formatConditionRuleValue45.Appearance.BackColor = System.Drawing.Color.Yellow;
-            formatConditionRuleValue45.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue45.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue45.Value1 = 0;
-            gridFormatRule45.Rule = formatConditionRuleValue45;
-            gridFormatRule46.Column = this.gridColumn16;
-            gridFormatRule46.ColumnApplyTo = this.gridColumn6;
-            gridFormatRule46.Name = "Format17";
-            formatConditionRuleValue46.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue46.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue46.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue46.Value1 = 10;
-            gridFormatRule46.Rule = formatConditionRuleValue46;
-            gridFormatRule47.Column = this.gridColumn16;
-            gridFormatRule47.ColumnApplyTo = this.gridColumn6;
-            gridFormatRule47.Name = "Format18";
-            formatConditionRuleValue47.Appearance.BackColor = System.Drawing.Color.Red;
-            formatConditionRuleValue47.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue47.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue47.Value1 = 20;
-            gridFormatRule47.Rule = formatConditionRuleValue47;
-            gridFormatRule48.Column = this.gridColumn16;
-            gridFormatRule48.ColumnApplyTo = this.gridColumn6;
-            gridFormatRule48.Name = "Format19";
-            formatConditionRuleValue48.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue48.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue48.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue48.Value1 = 30;
-            gridFormatRule48.Rule = formatConditionRuleValue48;
-            gridFormatRule49.Column = this.gridColumn17;
-            gridFormatRule49.ColumnApplyTo = this.gridColumn7;
-            gridFormatRule49.Name = "Format20";
-            formatConditionRuleValue49.Appearance.BackColor = System.Drawing.Color.Yellow;
-            formatConditionRuleValue49.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue49.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue49.Value1 = 0;
-            gridFormatRule49.Rule = formatConditionRuleValue49;
-            gridFormatRule50.Column = this.gridColumn17;
-            gridFormatRule50.ColumnApplyTo = this.gridColumn7;
-            gridFormatRule50.Name = "Format21";
-            formatConditionRuleValue50.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue50.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue50.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue50.Value1 = 10;
-            gridFormatRule50.Rule = formatConditionRuleValue50;
-            gridFormatRule51.Column = this.gridColumn17;
-            gridFormatRule51.ColumnApplyTo = this.gridColumn7;
-            gridFormatRule51.Name = "Format22";
-            formatConditionRuleValue51.Appearance.BackColor = System.Drawing.Color.Red;
-            formatConditionRuleValue51.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue51.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue51.Value1 = 20;
-            gridFormatRule51.Rule = formatConditionRuleValue51;
-            gridFormatRule52.Column = this.gridColumn17;
-            gridFormatRule52.ColumnApplyTo = this.gridColumn7;
-            gridFormatRule52.Name = "Format23";
-            formatConditionRuleValue52.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue52.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue52.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue52.Value1 = 30;
-            gridFormatRule52.Rule = formatConditionRuleValue52;
-            gridFormatRule53.Column = this.gridColumn18;
-            gridFormatRule53.ColumnApplyTo = this.gridColumn8;
-            gridFormatRule53.Name = "Format24";
-            formatConditionRuleValue53.Appearance.BackColor = System.Drawing.Color.Yellow;
-            formatConditionRuleValue53.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue53.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue53.Value1 = 0;
-            gridFormatRule53.Rule = formatConditionRuleValue53;
-            gridFormatRule54.Column = this.gridColumn18;
-            gridFormatRule54.ColumnApplyTo = this.gridColumn8;
-            gridFormatRule54.Name = "Format25";
-            formatConditionRuleValue54.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue54.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue54.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue54.Value1 = 10;
-            gridFormatRule54.Rule = formatConditionRuleValue54;
-            gridFormatRule55.Column = this.gridColumn18;
-            gridFormatRule55.ColumnApplyTo = this.gridColumn8;
-            gridFormatRule55.Name = "Format26";
-            formatConditionRuleValue55.Appearance.BackColor = System.Drawing.Color.Red;
-            formatConditionRuleValue55.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue55.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue55.Value1 = 20;
-            gridFormatRule55.Rule = formatConditionRuleValue55;
-            gridFormatRule56.Column = this.gridColumn18;
-            gridFormatRule56.ColumnApplyTo = this.gridColumn8;
-            gridFormatRule56.Name = "Format27";
-            formatConditionRuleValue56.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            formatConditionRuleValue56.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue56.Condition = DevExpress.XtraEditors.FormatCondition.Equal;
-            formatConditionRuleValue56.Value1 = 30;
-            gridFormatRule56.Rule = formatConditionRuleValue56;
-            this.gridView2.FormatRules.Add(gridFormatRule29);
-            this.gridView2.FormatRules.Add(gridFormatRule30);
-            this.gridView2.FormatRules.Add(gridFormatRule31);
-            this.gridView2.FormatRules.Add(gridFormatRule32);
-            this.gridView2.FormatRules.Add(gridFormatRule33);
-            this.gridView2.FormatRules.Add(gridFormatRule34);
-            this.gridView2.FormatRules.Add(gridFormatRule35);
-            this.gridView2.FormatRules.Add(gridFormatRule36);
-            this.gridView2.FormatRules.Add(gridFormatRule37);
-            this.gridView2.FormatRules.Add(gridFormatRule38);
-            this.gridView2.FormatRules.Add(gridFormatRule39);
-            this.gridView2.FormatRules.Add(gridFormatRule40);
-            this.gridView2.FormatRules.Add(gridFormatRule41);
-            this.gridView2.FormatRules.Add(gridFormatRule42);
-            this.gridView2.FormatRules.Add(gridFormatRule43);
-            this.gridView2.FormatRules.Add(gridFormatRule44);
-            this.gridView2.FormatRules.Add(gridFormatRule45);
-            this.gridView2.FormatRules.Add(gridFormatRule46);
-            this.gridView2.FormatRules.Add(gridFormatRule47);
-            this.gridView2.FormatRules.Add(gridFormatRule48);
-            this.gridView2.FormatRules.Add(gridFormatRule49);
-            this.gridView2.FormatRules.Add(gridFormatRule50);
-            this.gridView2.FormatRules.Add(gridFormatRule51);
-            this.gridView2.FormatRules.Add(gridFormatRule52);
-            this.gridView2.FormatRules.Add(gridFormatRule53);
-            this.gridView2.FormatRules.Add(gridFormatRule54);
-            this.gridView2.FormatRules.Add(gridFormatRule55);
-            this.gridView2.FormatRules.Add(gridFormatRule56);
-            this.gridView2.GridControl = this.gridControl2;
-            this.gridView2.Name = "gridView2";
-            this.gridView2.OptionsBehavior.Editable = false;
-            this.gridView2.OptionsSelection.EnableAppearanceFocusedCell = false;
-            this.gridView2.OptionsSelection.EnableAppearanceFocusedRow = false;
-            this.gridView2.OptionsView.ShowFooter = true;
+            this.gcVIImV.Caption = "VII-V";
+            this.gcVIImV.FieldName = "VII-V";
+            this.gcVIImV.Name = "gcVIImV";
+            this.gcVIImV.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "VII-V", "{0:0.##}")});
+            this.gcVIImV.Visible = true;
+            this.gcVIImV.VisibleIndex = 19;
+            this.gcVIImV.Width = 76;
             // 
-            // gridColumn1
+            // gcVIImIV
             // 
-            this.gridColumn1.AppearanceCell.ForeColor = System.Drawing.Color.Red;
-            this.gridColumn1.AppearanceCell.Options.UseForeColor = true;
-            this.gridColumn1.Caption = "RedBr";
-            this.gridColumn1.FieldName = "RBr";
-            this.gridColumn1.Name = "gridColumn1";
-            this.gridColumn1.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
-            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Count, "RBr", "{0}")});
-            this.gridColumn1.Visible = true;
-            this.gridColumn1.VisibleIndex = 0;
-            this.gridColumn1.Width = 45;
+            this.gcVIImIV.Caption = "VII-IV";
+            this.gcVIImIV.FieldName = "VII-IV";
+            this.gcVIImIV.Name = "gcVIImIV";
+            this.gcVIImIV.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "VII-IV", "{0:0.##}")});
+            this.gcVIImIV.Visible = true;
+            this.gcVIImIV.VisibleIndex = 20;
+            this.gcVIImIV.Width = 76;
             // 
-            // gridColumn9
+            // gcVIImIII
             // 
-            this.gridColumn9.Caption = "Par";
-            this.gridColumn9.FieldName = "Par";
-            this.gridColumn9.Name = "gridColumn9";
-            this.gridColumn9.Visible = true;
-            this.gridColumn9.VisibleIndex = 8;
-            this.gridColumn9.Width = 38;
+            this.gcVIImIII.Caption = "VII-III";
+            this.gcVIImIII.FieldName = "VII-III";
+            this.gcVIImIII.Name = "gcVIImIII";
+            this.gcVIImIII.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "VII-III", "{0:0.##}")});
+            this.gcVIImIII.Visible = true;
+            this.gcVIImIII.VisibleIndex = 21;
+            this.gcVIImIII.Width = 76;
             // 
-            // gridColumn10
+            // gcVIImII
             // 
-            this.gridColumn10.Caption = "Nepar";
-            this.gridColumn10.FieldName = "Nepar";
-            this.gridColumn10.Name = "gridColumn10";
-            this.gridColumn10.Visible = true;
-            this.gridColumn10.VisibleIndex = 9;
-            this.gridColumn10.Width = 40;
+            this.gcVIImII.Caption = "VII-II";
+            this.gcVIImII.FieldName = "VII-II";
+            this.gcVIImII.Name = "gcVIImII";
+            this.gcVIImII.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "VII-II", "{0:0.##}")});
+            this.gcVIImII.Visible = true;
+            this.gcVIImII.VisibleIndex = 22;
+            this.gcVIImII.Width = 76;
             // 
-            // gridColumn11
+            // gcVIImI
             // 
-            this.gridColumn11.Caption = "Suma";
-            this.gridColumn11.FieldName = "Suma";
-            this.gridColumn11.Name = "gridColumn11";
-            this.gridColumn11.Visible = true;
-            this.gridColumn11.VisibleIndex = 10;
-            this.gridColumn11.Width = 60;
+            this.gcVIImI.Caption = "VII-I";
+            this.gcVIImI.FieldName = "VII-I";
+            this.gcVIImI.Name = "gcVIImI";
+            this.gcVIImI.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "VII-I", "{0:0.##}")});
+            this.gcVIImI.Visible = true;
+            this.gcVIImI.VisibleIndex = 23;
+            this.gcVIImI.Width = 76;
             // 
-            // calcEdit1
+            // gcVImV
             // 
-            this.calcEdit1.Location = new System.Drawing.Point(1043, 35);
-            this.calcEdit1.Name = "calcEdit1";
-            this.calcEdit1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.calcEdit1.Properties.Mask.EditMask = "n0";
-            this.calcEdit1.Properties.Precision = 0;
-            this.calcEdit1.Size = new System.Drawing.Size(77, 20);
-            this.calcEdit1.TabIndex = 2;
-            this.calcEdit1.EditValueChanged += new System.EventHandler(this.calcEdit1_EditValueChanged);
+            this.gcVImV.Caption = "VI-V";
+            this.gcVImV.FieldName = "VI-V";
+            this.gcVImV.Name = "gcVImV";
+            this.gcVImV.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "VI-V", "{0:0.##}")});
+            this.gcVImV.Visible = true;
+            this.gcVImV.VisibleIndex = 24;
+            this.gcVImV.Width = 76;
+            // 
+            // gcVImIV
+            // 
+            this.gcVImIV.Caption = "VI-IV";
+            this.gcVImIV.FieldName = "VI-IV";
+            this.gcVImIV.Name = "gcVImIV";
+            this.gcVImIV.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "VI-IV", "{0:0.##}")});
+            this.gcVImIV.Visible = true;
+            this.gcVImIV.VisibleIndex = 25;
+            this.gcVImIV.Width = 76;
+            // 
+            // gcVImIII
+            // 
+            this.gcVImIII.Caption = "VI-III";
+            this.gcVImIII.FieldName = "VI-III";
+            this.gcVImIII.Name = "gcVImIII";
+            this.gcVImIII.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "VI-III", "{0:0.##}")});
+            this.gcVImIII.Visible = true;
+            this.gcVImIII.VisibleIndex = 26;
+            this.gcVImIII.Width = 76;
+            // 
+            // gcVImII
+            // 
+            this.gcVImII.Caption = "VI-II";
+            this.gcVImII.FieldName = "VI-II";
+            this.gcVImII.Name = "gcVImII";
+            this.gcVImII.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "VI-II", "{0:0.##}")});
+            this.gcVImII.Visible = true;
+            this.gcVImII.VisibleIndex = 27;
+            this.gcVImII.Width = 76;
+            // 
+            // gcVImI
+            // 
+            this.gcVImI.Caption = "VI-I";
+            this.gcVImI.FieldName = "VI-I";
+            this.gcVImI.Name = "gcVImI";
+            this.gcVImI.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "VI-I", "{0:0.##}")});
+            this.gcVImI.Visible = true;
+            this.gcVImI.VisibleIndex = 28;
+            this.gcVImI.Width = 76;
+            // 
+            // gcVmIV
+            // 
+            this.gcVmIV.Caption = "V-IV";
+            this.gcVmIV.FieldName = "V-IV";
+            this.gcVmIV.Name = "gcVmIV";
+            this.gcVmIV.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "V-IV", "{0:0.##}")});
+            this.gcVmIV.Visible = true;
+            this.gcVmIV.VisibleIndex = 29;
+            this.gcVmIV.Width = 76;
+            // 
+            // gcVmIII
+            // 
+            this.gcVmIII.Caption = "V-III";
+            this.gcVmIII.FieldName = "V-III";
+            this.gcVmIII.Name = "gcVmIII";
+            this.gcVmIII.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "V-III", "{0:0.##}")});
+            this.gcVmIII.Visible = true;
+            this.gcVmIII.VisibleIndex = 30;
+            this.gcVmIII.Width = 76;
+            // 
+            // gcVmII
+            // 
+            this.gcVmII.Caption = "V-II";
+            this.gcVmII.FieldName = "V-II";
+            this.gcVmII.Name = "gcVmII";
+            this.gcVmII.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "V-II", "{0:0.##}")});
+            this.gcVmII.Visible = true;
+            this.gcVmII.VisibleIndex = 31;
+            this.gcVmII.Width = 76;
+            // 
+            // gcVmI
+            // 
+            this.gcVmI.Caption = "V-I";
+            this.gcVmI.FieldName = "V-I";
+            this.gcVmI.Name = "gcVmI";
+            this.gcVmI.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "V-I", "{0:0.##}")});
+            this.gcVmI.Visible = true;
+            this.gcVmI.VisibleIndex = 32;
+            this.gcVmI.Width = 76;
+            // 
+            // gcIVmIII
+            // 
+            this.gcIVmIII.Caption = "IV-III";
+            this.gcIVmIII.FieldName = "IV-III";
+            this.gcIVmIII.Name = "gcIVmIII";
+            this.gcIVmIII.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "IV-III", "{0:0.##}")});
+            this.gcIVmIII.Visible = true;
+            this.gcIVmIII.VisibleIndex = 33;
+            this.gcIVmIII.Width = 76;
+            // 
+            // gcIVmII
+            // 
+            this.gcIVmII.Caption = "IV-II";
+            this.gcIVmII.FieldName = "IV-II";
+            this.gcIVmII.Name = "gcIVmII";
+            this.gcIVmII.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "IV-II", "{0:0.##}")});
+            this.gcIVmII.Visible = true;
+            this.gcIVmII.VisibleIndex = 34;
+            this.gcIVmII.Width = 76;
+            // 
+            // gcIVmI
+            // 
+            this.gcIVmI.Caption = "IV-I";
+            this.gcIVmI.FieldName = "IV-I";
+            this.gcIVmI.Name = "gcIVmI";
+            this.gcIVmI.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "IV-I", "{0:0.##}")});
+            this.gcIVmI.Visible = true;
+            this.gcIVmI.VisibleIndex = 35;
+            this.gcIVmI.Width = 76;
+            // 
+            // gcIIImII
+            // 
+            this.gcIIImII.Caption = "III-II";
+            this.gcIIImII.FieldName = "III-II";
+            this.gcIIImII.Name = "gcIIImII";
+            this.gcIIImII.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "III-II", "{0:0.##}")});
+            this.gcIIImII.Visible = true;
+            this.gcIIImII.VisibleIndex = 36;
+            this.gcIIImII.Width = 76;
+            // 
+            // gcIIImI
+            // 
+            this.gcIIImI.Caption = "III-I";
+            this.gcIIImI.FieldName = "III-I";
+            this.gcIIImI.Name = "gcIIImI";
+            this.gcIIImI.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "III-I", "{0:0.##}")});
+            this.gcIIImI.Visible = true;
+            this.gcIIImI.VisibleIndex = 37;
+            this.gcIIImI.Width = 76;
+            // 
+            // gcIImI
+            // 
+            this.gcIImI.Caption = "II-I";
+            this.gcIImI.FieldName = "II-I";
+            this.gcIImI.Name = "gcIImI";
+            this.gcIImI.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Average, "II-I", "{0:0.##}")});
+            this.gcIImI.Visible = true;
+            this.gcIImI.VisibleIndex = 38;
+            this.gcIImI.Width = 76;
             // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1153, 632);
-            this.Controls.Add(this.calcEdit1);
-            this.Controls.Add(this.gridControl2);
             this.Controls.Add(this.gridControl1);
             this.Name = "frmMain";
             this.Text = "frmMain";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.frmMain_Load);
             ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridControl2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridView2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.calcEdit1.Properties)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -1116,26 +911,26 @@
         private DevExpress.XtraGrid.Columns.GridColumn gcDV;
         private DevExpress.XtraGrid.Columns.GridColumn gcDVI;
         private DevExpress.XtraGrid.Columns.GridColumn gcDVII;
-        private DevExpress.XtraGrid.GridControl gridControl2;
-        private DevExpress.XtraGrid.Views.Grid.GridView gridView2;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn1;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn2;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn3;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn4;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn5;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn6;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn7;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn8;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn9;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn10;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn11;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn12;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn13;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn14;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn15;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn16;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn17;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn18;
-        private DevExpress.XtraEditors.CalcEdit calcEdit1;
+        private DevExpress.XtraGrid.Columns.GridColumn gcVIImVI;
+        private DevExpress.XtraGrid.Columns.GridColumn gcVIImV;
+        private DevExpress.XtraGrid.Columns.GridColumn gcVIImIV;
+        private DevExpress.XtraGrid.Columns.GridColumn gcVIImIII;
+        private DevExpress.XtraGrid.Columns.GridColumn gcVIImII;
+        private DevExpress.XtraGrid.Columns.GridColumn gcVIImI;
+        private DevExpress.XtraGrid.Columns.GridColumn gcVImV;
+        private DevExpress.XtraGrid.Columns.GridColumn gcVImIV;
+        private DevExpress.XtraGrid.Columns.GridColumn gcVImIII;
+        private DevExpress.XtraGrid.Columns.GridColumn gcVImII;
+        private DevExpress.XtraGrid.Columns.GridColumn gcVImI;
+        private DevExpress.XtraGrid.Columns.GridColumn gcVmIV;
+        private DevExpress.XtraGrid.Columns.GridColumn gcVmIII;
+        private DevExpress.XtraGrid.Columns.GridColumn gcVmII;
+        private DevExpress.XtraGrid.Columns.GridColumn gcVmI;
+        private DevExpress.XtraGrid.Columns.GridColumn gcIVmIII;
+        private DevExpress.XtraGrid.Columns.GridColumn gcIVmII;
+        private DevExpress.XtraGrid.Columns.GridColumn gcIVmI;
+        private DevExpress.XtraGrid.Columns.GridColumn gcIIImII;
+        private DevExpress.XtraGrid.Columns.GridColumn gcIIImI;
+        private DevExpress.XtraGrid.Columns.GridColumn gcIImI;
     }
 }
